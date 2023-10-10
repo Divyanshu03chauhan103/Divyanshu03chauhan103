@@ -3,10 +3,10 @@
 </div>
 <h1 align="center"><b>Ram Ram bhai Sareyane👋</b>, I'm Divyanshu Chauhan</h1>
 <h2 align="center">Knowledge Seeker|Creative Dreamer</h2>
+<img align=right width=350 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshu03chauhan103&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshu03chauhan103" /> </p>
-
 - 🌱 I’m currently learning **javascript**
 
 - 🤝 I may help you in **ptython basics**
