@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshu03chauhan103&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshu03chauhan103" /> </p>
 - 🌱 I’m currently learning **javascript**
 
-- 🤝 I may help you in **ptython basics**
+- 🤝 I may help you in **python basics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Divyanshu03chauhan103](https://github.com/Divyanshu03chauhan103)
 
